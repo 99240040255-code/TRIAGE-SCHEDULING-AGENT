@@ -1,0 +1,7 @@
+{
+  "name": "Triage Scheduling Agent",
+  "description": "Intelligent clinical triage and appointment scheduling platform for clinicians, care teams, and healthcare administrators to prioritize patients by urgency, match specialists, and escalate emergencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
